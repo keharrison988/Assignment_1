@@ -1,0 +1,49 @@
+   11  ls
+   12  cd Desktop
+   13  ls
+   14  git init Assignment_1
+   15  cd Assignment_1
+   16  ls
+   17  ls -a
+   20  vim README.md
+   21  ls
+   22  git add README.md
+   23  git status
+   24  git commit README.md
+   25  git config --global user.email "kathryn-harrison@uiowa.edu"
+   26  git config --global user.name "Kathryn Harrison" 
+   27  git commit README.md
+   28  mv ../Assignment_1.pdf .
+   29  ls
+   30  git status
+   31  vim .gitignore
+   32  git status
+   33  git add .gitignore
+   34  git commit .gitignore
+   35  git remote add origin https://github.com/keharrison988/Assignment_1.git
+   36  git push -u origin master
+   43  vim README.md
+   45  git diff
+   46  vim README.md
+   47  git diff
+   48  git commit README.md
+   56  history > commands.out
+   57  vim commands.out
+   58  c:/users/bleb/Desktop/git_intro
+   59  cd git_intro
+   60  git init
+   61  ls
+   66  cd Desktop
+   67  ls
+   68  cd Assignment_1
+   70  ls
+   92  vim commands.out
+   99  cd README.md
+  100  vim 
+  101  git Assignment_1
+  102  vim Assignment_1
+  103  vim 'Assignment_1'
+  105  ls
+  107  cd Assignment_1
+  108  vim Assignment_1
+  109  vim README.md
